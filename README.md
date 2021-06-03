@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jaimin-prajapati-051182167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jaimin490" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/jp__creation/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="iyash24" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jp__creation/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="jaimin prajapati" height="30" width="40" /></a>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,12 +26,11 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sy07&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="sy07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimin490&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="sy07" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sy07&show_icons=true&locale=en" alt="sy07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimin490&show_icons=true&locale=en" alt="sy07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sy07&" alt="sy07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimin490&" alt="sy07" /></p>
 
-
-[![jaimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimin490)](https://github.com/jaimin490/github-readme-stats)
 
